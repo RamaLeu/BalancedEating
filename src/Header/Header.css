@@ -1,0 +1,30 @@
+header{
+    min-height: 10%;
+    box-sizing: border-box;
+    display: flex;
+    background-color: #222;
+}
+.titling{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+.siteTitle{
+    margin-left: 2%;
+    font-size: 40px;
+    color: #fffffa;
+}
+.siteCredit{
+    margin-left: 2%;
+    font-size: 15px;
+    color: #fffffa;
+}
+.endInfo{
+    width: 20%;
+    color: #fffffa;
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
